@@ -155,6 +155,68 @@
 
       <button onclick="calcSaaS()">Calculate</button>
       <div class="results" id="s_out"></div>
+<div class="results">
+  <h3>Tools to Increase Website Profit</h3>
+  <ul>
+    <li>
+      <strong>Web Hosting:</strong>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        Start a website with reliable hosting
+      </a>
+    </li>
+    <li>
+      <strong>Email Marketing:</strong>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        Capture visitors and increase conversions
+      </a>
+    </li>
+  </ul>
+</div>
+<div class="results">
+  <h3>YouTube Growth Tools</h3>
+  <ul>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        TubeBuddy – Optimize titles, tags, and SEO
+      </a>
+    </li>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        VidIQ – Grow views and revenue faster
+      </a>
+    </li>
+  </ul>
+</div>
+<div class="results">
+  <h3>Start Affiliate Marketing</h3>
+  <ul>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        Systeme.io – Free funnels & email automation
+      </a>
+    </li>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        ClickBank – Find high-paying offers
+      </a>
+    </li>
+  </ul>
+</div>
+<div class="results">
+  <h3>Launch Your Own SaaS</h3>
+  <ul>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        Stripe – Accept payments globally
+      </a>
+    </li>
+    <li>
+      <a href="YOUR_AFFILIATE_LINK_HERE" target="_blank">
+        LemonSqueezy – SaaS billing & subscriptions
+      </a>
+    </li>
+  </ul>
+</div>
     </div>
 
     <footer>
